@@ -1,8 +1,8 @@
 Classes: There are three main classes:
 
-1. TicTacToe: Manages the game board and game logic.<br>
-2.Player: Represents a player, holding their name and symbol (either 'X' or 'O').<br>
-3. Game: Contains the main method, which runs the game.<br>
+    1. TicTacToe: Manages the game board and game logic.<br>
+    2.Player: Represents a player, holding their name and symbol (either 'X' or 'O').<br>
+    3. Game: Contains the main method, which runs the game.<br>
 *Game Board:
 The board is a 3x3 grid (2D array) initialized with spaces (' ').
 The initBoard method fills the grid with spaces.<br>
